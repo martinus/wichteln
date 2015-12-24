@@ -1,3 +1,4 @@
+﻿# created by martin.ankerl@gmail.com
 require 'json'
 
 h = JSON.load(File.read(ARGV[0]))
