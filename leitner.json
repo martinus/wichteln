@@ -1,0 +1,19 @@
+{
+  "names": [
+    "Rene",
+    "Xenya",
+    "Martin",
+    "Denise",
+    "Walter",
+    "Lydia",
+    "Norbert",
+    "Erika"
+  ],
+  
+  "forbidden": [
+    ["Rene", "Xenya"],
+    ["Denise", "Martin"],
+    ["Walter", "Lydia"],
+    ["Norbert", "Erika"]
+  ]
+}
